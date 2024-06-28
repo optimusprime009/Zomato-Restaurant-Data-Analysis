@@ -1,4 +1,4 @@
-#Data analysis of Zomato dataset in the city of Gorakhpur.
+# Data analysis of Zomato dataset in the city of Gorakhpur
 
 Gorakhpur city prides itself on its food. People from all across the country have settled up here, particularly from Rajasthan, Maharashtra, and UP. The number of restaurants in Gorakhpur is increasing day by day. Currently, around 3900 restaurants in Gorakhpur are listed on Zomato. With each day new restaurants opening the industry hasn't been saturated yet and the demand is increasing day by day!
 
